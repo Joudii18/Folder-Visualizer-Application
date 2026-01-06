@@ -66,3 +66,16 @@ The **context** selects visualization dynamically.
 ## 📊 Displayed Information
 
 <img src="output_sample.jpeg" alt="Sample Output" width="450">
+
+# 👩‍💻 Technologies Used
+- **C#**
+- **.NET Framework**
+- **Visual Studio**
+- **WinForms / WPF**
+
+---
+
+## 📎 Academic Declaration
+This project was developed as part of **SWE 316 — Software Design & Construction coursework.**
+
+---
